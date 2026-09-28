@@ -1,0 +1,1 @@
+{"e191c22a9952204475f2b2c02dcf7c55:5bd835b0d6b1d4ada3b9f0db936e82c8":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"cb4782249d535458","status":"failed","statusDetails":"ReferenceError: loginPage is not defined","time":{"start":1787033122725,"stop":1787033124082,"duration":1357}}]}}
